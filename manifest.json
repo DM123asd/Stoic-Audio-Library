@@ -3,21 +3,21 @@
     "id": "meditations_Book_I",
     "name": "Book_I",
     "author": "Marcus Aurelius",
-    "url": "https://cdn.jsdelivr.net/gh/你的用户名/仓库名@main/audio/meditations_Book_I.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/DM123asd/Stoic-Audio-Library@main/meditations_Book_I.mp3",
     "category": "Meditations"
   },
   {
    "id": "meditations_Book_II",
     "name": "Book_II",
     "author": "Marcus Aurelius",
-    "url": "https://cdn.jsdelivr.net/gh/你的用户名/仓库名@main/audio/meditations_Book_II.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/DM123asd/Stoic-Audio-Library@main/meditations_Book_II.mp3",
     "category": "Meditations"
   },
   {
    "id": "meditations_Book_III",
     "name": "Book_III",
     "author": "Marcus Aurelius",
-    "url": "https://cdn.jsdelivr.net/gh/你的用户名/仓库名@main/audio/meditations_Book_III.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/DM123asd/Stoic-Audio-Library@main/meditations_Book_III.mp3",
     "category": "Meditations"
   }
 ]
