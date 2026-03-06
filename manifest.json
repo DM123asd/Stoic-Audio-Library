@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ocean_deep",
+    "name": "Deep Ocean",
+    "author": "Nature",
+    "url": "https://cdn.jsdelivr.net/gh/你的用户名/仓库名@main/audio/ocean.mp3",
+    "category": "Nature"
+  },
+  {
+    "id": "zen_bell",
+    "name": "Zen Temple Bell",
+    "author": "Master",
+    "url": "https://cdn.jsdelivr.net/gh/你的用户名/仓库名@main/audio/bell.mp3",
+    "category": "Meditation"
+  }
+]
